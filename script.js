@@ -1,18 +1,16 @@
 const couleurs = [
-  "red",
-  "blue",
-  "green",
-  "yellow",
+  "#ff0000",
+  "rgb(0, 0, 128)",
+  "#808000",
+  "#ffff00",
   "purple",
-  "pink",
-  "black",
-  "white",
+  "rgb(255, 0, 255)",
   "orange",
-  "brown",
-  "gray",
+  "#800000",
+  "rgb(128, 128, 128)",
   "crimson",
   "gold",
-  "silver",
+  "rgb(192, 192, 192)",
 ];
 
 const caracteres = [
